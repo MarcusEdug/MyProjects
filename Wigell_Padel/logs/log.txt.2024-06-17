@@ -1,0 +1,26 @@
+2024-06-17 18:11:56,448   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@3b5bdd24
+2024-06-17 18:15:40,493   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@68d6b83f
+2024-06-17 18:16:13,156   |   INFO   |   org.example.wigell_padel.services.FieldService   |   deleteFieldById   |   Admin deleted field with id: 6
+2024-06-17 18:16:52,704   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@23845532
+2024-06-17 18:16:56,906   |   INFO   |   org.example.wigell_padel.services.FieldService   |   deleteFieldById   |   Admin deleted field with id: 6
+2024-06-17 18:16:59,364   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@67f7384f
+2024-06-17 18:17:04,508   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@67d49625
+2024-06-17 18:17:36,563   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer: Name1. saved a booking with booking ID: 6
+2024-06-17 18:30:10,213   |   INFO   |   org.example.wigell_padel.services.BookingService   |   save   |   Customer updated a booking
+2024-06-17 18:39:13,337   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@6ed0a6c5
+2024-06-17 18:39:22,868   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer 1 has been successfully saved
+2024-06-17 18:57:45,814   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@99ec84e
+2024-06-17 18:57:52,304   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer 1 has been successfully saved
+2024-06-17 19:02:48,379   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@37f19bd7
+2024-06-17 19:02:51,297   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer 1 has been successfully saved
+2024-06-17 19:10:28,885   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@3bc6b60e
+2024-06-17 19:10:32,552   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer 1 has been successfully saved
+2024-06-17 19:31:26,274   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin saved field: org.example.wigell_padel.entities.Field@1a51ade5
+2024-06-17 19:31:37,506   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-17 19:48:24,639   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-17 19:48:27,155   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-17 19:49:08,226   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-17 19:50:16,012   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-17 19:50:18,249   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-17 19:53:11,474   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-17 19:53:18,015   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking

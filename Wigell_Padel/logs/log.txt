@@ -1,0 +1,42 @@
+2024-06-18 16:52:41,423   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 16:52:47,567   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 16:55:17,534   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 16:55:24,411   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 16:57:14,922   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 16:57:36,808   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 17:48:36,194   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 17:49:48,565   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 18:09:35,542   |   INFO   |   org.example.wigell_padel.services.FieldService   |   deleteFieldById   |   Admin deleted field with id: 6
+2024-06-18 18:09:42,030   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:09:46,341   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 18:12:59,780   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:13:06,717   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 18:14:05,806   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:14:09,597   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 18:19:35,338   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:19:40,865   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 18:20:41,310   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:20:45,070   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 18:23:12,406   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:23:16,825   |   INFO   |   org.example.wigell_padel.services.BookingService   |   saveAndSetUnavailable   |   Customer with id: 1 made a booking
+2024-06-18 18:24:05,510   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:32:41,248   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:49:32,240   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:55:55,555   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:56:00,419   |   INFO   |   org.example.wigell_padel.services.BookingService   |   save   |   Customer created booking
+2024-06-18 18:58:40,802   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 18:58:46,640   |   INFO   |   org.example.wigell_padel.services.BookingService   |   save   |   Customer created booking
+2024-06-18 19:03:01,209   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 19:03:06,119   |   INFO   |   org.example.wigell_padel.services.BookingService   |   save   |   Customer created booking
+2024-06-18 19:05:33,745   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 19:05:36,827   |   INFO   |   org.example.wigell_padel.services.BookingService   |   save   |   Customer created booking
+2024-06-18 19:07:06,432   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 19:07:10,875   |   INFO   |   org.example.wigell_padel.services.BookingService   |   save   |   Customer created booking
+2024-06-18 19:07:51,352   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 19:07:54,381   |   INFO   |   org.example.wigell_padel.services.BookingService   |   save   |   Customer created booking
+2024-06-18 19:08:31,067   |   INFO   |   org.example.wigell_padel.services.BookingService   |   updateBooking   |   Customer with id: 1 updated booking with id: 6
+2024-06-18 19:08:58,599   |   INFO   |   org.example.wigell_padel.services.FieldService   |   deleteFieldById   |   Admin deleted field with id: 1
+2024-06-18 19:09:04,523   |   INFO   |   org.example.wigell_padel.services.FieldService   |   deleteFieldById   |   Admin deleted field with id: 6
+2024-06-18 19:09:31,070   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
+2024-06-18 19:09:36,034   |   INFO   |   org.example.wigell_padel.services.FieldService   |   deleteFieldById   |   Admin deleted field with id: 7
+2024-06-18 19:09:42,441   |   INFO   |   org.example.wigell_padel.services.FieldService   |   save   |   Admin created a new field: 
